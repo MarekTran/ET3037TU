@@ -1,0 +1,5 @@
+resistance	vh2_measured	vh2_corrected	i_fc_avg	u_fc_avg	time
+10	2	1.2	0.067	0.74	120
+5	4	3.2	0.123	0.6975	120
+3	3	2.2	0.048	0.744	120
+1	5	4.2	0.2644	0.616	120

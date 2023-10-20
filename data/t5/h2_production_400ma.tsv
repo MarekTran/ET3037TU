@@ -1,0 +1,7 @@
+v_hydrogen_measured	v_hydrogen_corrected	i_electrolyser	time	voltage_electrolyser	v_oxygen_measured	v_hydrogen_theoretical	efficiency_faraday	efficiency_electrical
+0	0	0.4	0	1.702	0	0	0	0
+2	2.163333333	0.4	49	1.712	1	2.441950562	0.8859	0.8658
+4	4.29	0.4	87	1.713	2	4.335708141	0.9895	0.8653
+6	6.443333333	0.4	133	1.713	3	6.628151526	0.9721	0.8653
+8	8.56	0.4	168	1.714	4	8.372401928	1.0224	0.8648
+10	10.7	0.4	210	1.714	5	10.46550241	1.0224	0.8648

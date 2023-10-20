@@ -1,0 +1,7 @@
+v_hydrogen_measured,v_hydrogen_corrected,i_electrolyser,time,voltage_electrolyser,v_oxygen_measured,v_hydrogen_theoretical,efficiency_faraday,efficiency_electrical
+0,0,0.2,0,1.632,0,0,0,0
+2,2.3,0.2,90,1.642,1,2.242607659,1.0256,0.9258
+4,4.693333333,0.2,208,1.643,2,5.182915479,0.9055,0.8169
+6,6.933333333,0.2,280,1.644,3,6.977001606,0.9937,0.8959
+8,9.21,0.2,363,1.645,4,9.045184226,1.0182,0.9175
+10,11.50333333,0.2,451,1.645,5,11.23795616,1.0236,0.9223
